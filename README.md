@@ -2,6 +2,8 @@
 
 # Cero Code
 
+## This package is depricated
+
 **AI-powered terminal assistant that actually gets you**
 
 [![npm version](https://img.shields.io/npm/v/cerocode.svg)](https://www.npmjs.com/package/cerocode)
